@@ -38,4 +38,5 @@ Will rturn **false** if:
 
 ### Repo
 - Examples
+- Linting
 - npm package
