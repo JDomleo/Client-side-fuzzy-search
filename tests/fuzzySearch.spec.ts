@@ -1,4 +1,4 @@
-import Search from './fuzzySearch';
+import Search from '../src/fuzzySearch';
 
 describe('Fuzzy search', () => {
   it('returns true when the searchTerm matches the searchString exactly', () => {
