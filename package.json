@@ -4,7 +4,7 @@
   "description": "Simple client-side fuzzy search",
   "main": "index.js",
   "scripts": {
-    "test": "npx jest --config jest.config.js"
+    "test": "npx jest --config jest.config.json"
   },
   "author": "Jack Domleo",
   "license": "ISC",
